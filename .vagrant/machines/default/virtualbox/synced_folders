@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/HashiCorp/fedora25-python36","disabled":false,"create":true,"nfs":true,"__vagrantfile":true}}}
